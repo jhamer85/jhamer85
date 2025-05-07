@@ -15,12 +15,18 @@ Whether you're a fellow data enthusiast, fantasy footballer, or hiring manager, 
 
 ---
 
-## 📈 Repository 1: Fantasy Football Analysis
+##   📈 Repository 1: Fantasy Football Analysis
 
-This repository contains my work analyzing Tight End scoring in the 2024 fantasy football season. I built a box plot to visualize the data and used various analytical techniques to gain insights into fantasy football trends. Additionally, I created an Excel workbook to manage in-person fantasy football auction league drafts, utilizing functions like VLOOKUP to streamline the process.
+  * Self-directed projects analyzing fantasy football data. Explores player performance, strategy, and league trends using data analysis techniques. Showcases independent problem-solving.
 
-## 📈 Repository 1: Fantasy Football Analysis
-This is my capstone project for the IBM Data Analyst Professional Certificate. It involves a comprehensive data analysis project where I applied the skills and techniques I learned throughout the course. The repository includes the data, analysis, and results in a clear and organized format. It's a showcase of my ability to gather, clean, analyze, and visualize data to provide actionable insights.
+##   📈 Repository 2: Capstone - Supermarket Sales Analysis
+
+* Capstone project for the IBM Data Analyst Professional Certificate. This analysis investigates the relationship between coding skills and career prospects, providing insights into job availability and salary ranges across different programming proficiencies.
+
+##   📈 Repository 3: Data Analysis Projects (Coursera)
+
+  * Data analysis projects completed for Coursera courses. Develops skills in data wrangling, cleaning, and EDA. Results presented in PDF reports for stakeholders.
+
 
 ---
 
