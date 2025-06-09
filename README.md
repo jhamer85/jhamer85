@@ -19,7 +19,7 @@ Whether you're a fellow data enthusiast, fantasy footballer, or hiring manager, 
 
   * Self-directed projects analyzing fantasy football data. Explores player performance, strategy, and league trends using data analysis techniques. Showcases independent problem-solving.
 
-##   📈 Repository 2: Capstone - Supermarket Sales Analysis
+##   📈 Repository 2: Capstone - Stack Overflow Developer Survey
 
 * Capstone project for the IBM Data Analyst Professional Certificate. This analysis investigates the relationship between coding skills and career prospects, providing insights into job availability and salary ranges across different programming proficiencies.
 
